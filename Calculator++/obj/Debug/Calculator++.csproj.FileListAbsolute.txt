@@ -1,0 +1,9 @@
+C:\Users\Кирилл\Documents\Visual Studio 2015\Projects\1_Courses\Calculator++\Calculator++\bin\Debug\Calculator++.exe.config
+C:\Users\Кирилл\Documents\Visual Studio 2015\Projects\1_Courses\Calculator++\Calculator++\obj\Debug\Calculator__.Properties.Resources.resources
+C:\Users\Кирилл\Documents\Visual Studio 2015\Projects\1_Courses\Calculator++\Calculator++\obj\Debug\Calculator++.csproj.GenerateResource.Cache
+C:\Users\Кирилл\Documents\Visual Studio 2015\Projects\1_Courses\Calculator++\Calculator++\bin\Debug\Calculator++.exe
+C:\Users\Кирилл\Documents\Visual Studio 2015\Projects\1_Courses\Calculator++\Calculator++\bin\Debug\Calculator++.pdb
+C:\Users\Кирилл\Documents\Visual Studio 2015\Projects\1_Courses\Calculator++\Calculator++\obj\Debug\Calculator++.exe
+C:\Users\Кирилл\Documents\Visual Studio 2015\Projects\1_Courses\Calculator++\Calculator++\obj\Debug\Calculator++.pdb
+C:\Users\Кирилл\Documents\Visual Studio 2015\Projects\1_Courses\Calculator++\Calculator++\obj\Debug\Calculator++.csprojResolveAssemblyReference.cache
+C:\Users\Кирилл\Documents\Visual Studio 2015\Projects\1_Courses\Calculator++\Calculator++\obj\Debug\CalculatorPlus.CalculatorPlusPlus.resources

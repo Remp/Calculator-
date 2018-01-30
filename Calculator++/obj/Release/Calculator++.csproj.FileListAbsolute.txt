@@ -1,0 +1,9 @@
+C:\Users\Кирилл\Documents\Visual Studio 2015\Projects\1_Courses\Calculator++\Calculator++\bin\Release\Calculator++.exe.config
+C:\Users\Кирилл\Documents\Visual Studio 2015\Projects\1_Courses\Calculator++\Calculator++\bin\Release\Calculator++.exe
+C:\Users\Кирилл\Documents\Visual Studio 2015\Projects\1_Courses\Calculator++\Calculator++\bin\Release\Calculator++.pdb
+C:\Users\Кирилл\Documents\Visual Studio 2015\Projects\1_Courses\Calculator++\Calculator++\obj\Release\Calculator++.csprojResolveAssemblyReference.cache
+C:\Users\Кирилл\Documents\Visual Studio 2015\Projects\1_Courses\Calculator++\Calculator++\obj\Release\CalculatorPlus.CalculatorPlusPlus.resources
+C:\Users\Кирилл\Documents\Visual Studio 2015\Projects\1_Courses\Calculator++\Calculator++\obj\Release\Calculator__.Properties.Resources.resources
+C:\Users\Кирилл\Documents\Visual Studio 2015\Projects\1_Courses\Calculator++\Calculator++\obj\Release\Calculator++.csproj.GenerateResource.Cache
+C:\Users\Кирилл\Documents\Visual Studio 2015\Projects\1_Courses\Calculator++\Calculator++\obj\Release\Calculator++.exe
+C:\Users\Кирилл\Documents\Visual Studio 2015\Projects\1_Courses\Calculator++\Calculator++\obj\Release\Calculator++.pdb
